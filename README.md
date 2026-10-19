@@ -26,8 +26,8 @@ Some of the sample images from the app. Better to check it out live!
 
 <img width="1242" alt="image" src="https://github.com/kbalaji7/KBalaji-PortFolio/blob/main/public/homepage.png" />
 <img width="1241" alt="image" src="https://github.com/kbalaji7/KBalaji-PortFolio/blob/main/public/scroll.png" />
-<img width="1241" alt="image" src="https://github.com/user-attachments/assets/a15017f4-f1f2-459e-b895-b3c14703635b" />
-<img width="1428" height="830" alt="image" src="https://github.com/kbalaji7/KBalaji-PortFolio/blob/main/public/info.png" />
+<img width="1241" alt="image" src="https://github.com/kbalaji7/KBalaji-PortFolio/blob/main/public/info.png" />
+<img width="1428" height="830" alt="image" src="https://github.com/kbalaji7/KBalaji-PortFolio/blob/main/public/hompagedark.png" />
 
 
 
