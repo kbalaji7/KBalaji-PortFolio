@@ -3,7 +3,7 @@
 Personal developer portfolio showcasing my projects, technical skills, professional experience, certifications, and education through an interactive, responsive web design.
 =======
 # kbalaji7.github.io
-Hello there! I'm Mohit Virli, frontend engineer by profession, a creative at heart.
+Hello there! I'm K Balaji, frontend engineer by profession, a creative at heart.
 
 This is the updated version of my personal website which is now in 3D. LFG!
 
